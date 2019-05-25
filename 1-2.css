@@ -1,0 +1,379 @@
+.page1 {
+    background: url('image/1.1.png') no-repeat;
+    background-size: cover;
+}
+
+.page1 img {
+    position: absolute;
+}
+
+.page1 img:nth-of-type(1) {
+    width: 7.5rem;
+    height: 4.5rem;
+    bottom: 0;
+    left: .1rem;
+}
+
+.page1 img:nth-of-type(2) {
+    width: 1.95rem;
+    height: 2rem;
+    top: 4.95rem;
+    left: 2.75rem;
+}
+
+.page1 img:nth-of-type(3) {
+    width: 1rem;
+    height: 1.9rem;
+    top: 5.1rem;
+    right: 2.75rem;
+}
+
+.page1 img:nth-of-type(4) {
+    width: 1.4rem;
+    height: 2.5rem;
+    top: 4.62rem;
+    left: 2.44rem;
+}
+
+.page1 img:nth-of-type(5) {
+    width: 6.8rem;
+    height: .7rem;
+    top: 2.8rem;
+    left: .4rem;
+}
+
+.page2 {
+    background: url('image/1.1.png') no-repeat;
+    background-size: cover;
+}
+
+.page2 img {
+    position: absolute;
+}
+
+
+.page2 img:nth-of-type(1) {
+    width: 6.2rem;
+    height: 5.9rem;
+    top: 4.7rem;
+    left: .5rem;
+}
+
+.page2 img:nth-of-type(2) {
+
+    width: 4.8rem;
+    height: 3.5rem;
+    top: 5.7rem;
+    left: 1.2rem;
+}
+
+.page2 img:nth-of-type(3) {
+    width: 1.5rem;
+    height: 1rem;
+    top: 5.5rem;
+    left: .8rem;
+}
+
+.page2 img:nth-of-type(4) {
+    width: 1.5rem;
+    height: 1rem;
+    bottom: 4rem;
+    right: .8rem;
+}
+
+.box1 {
+    position: absolute;
+    color: dodgerblue;
+    text-align: center;
+    font-size: .35rem;
+    top: 2.8rem;
+    left: 2.8rem;
+}
+
+.box2 {
+    position: absolute;
+    color: limegreen;
+    text-align: center;
+    font-size: .35rem;
+    bottom: 1.3rem;
+    left: 1.9rem;
+
+}
+
+.page3 {
+    background: url('image/1.1.png') no-repeat;
+    background-size: cover;
+}
+
+.page3 img {
+    position: absolute;
+}
+
+.page3 img:nth-of-type(1) {
+    width: 4.8rem;
+    height: 6.8rem;
+    top: 3.9rem;
+    left: 1.3rem;
+}
+
+.page3 img:nth-of-type(2) {
+    width: 3.8rem;
+    height: 5.2rem;
+    top: 4.7rem;
+    left: 1.8rem;
+}
+
+.page3 img:nth-of-type(3) {
+    width: 1.8rem;
+    height: .4rem;
+    bottom: 2.65rem;
+    left: 2.8rem;
+}
+
+.page3 img:nth-of-type(4) {
+    width: 1.8rem;
+    height: 1.1rem;
+    top: 1.3rem;
+    right: .5rem;
+}
+
+.page3 img:nth-of-type(5) {
+    width: 1.8rem;
+    height: 1.1rem;
+    top: 1.3rem;
+    right: 2.2rem;
+}
+
+.page3 img:nth-of-type(6) {
+    width: 6.7rem;
+    height: 5.9rem;
+    top: 2rem;
+    right: .7rem;
+    animation-iteration-count: infinite;
+}
+
+.box3 {
+    position: absolute;
+    color: hotpink;
+    text-align: center;
+    font-size: .35rem;
+    bottom: .8rem;
+    left: 2.5rem;
+
+}
+.page4 {
+    background: url('image/1.1.png') no-repeat;
+    background-size: cover;
+}
+
+.page4 img {
+    position: absolute;
+}
+
+.page4 img:nth-of-type(1) {
+    width: 6.8rem;
+    height: 4.8rem;
+    top:2.3rem;
+    right:0rem;
+}
+.page4 img:nth-of-type(2) {
+    width: 6.7rem;
+    height: 5rem;
+    top:2.3rem;
+    right:.2rem;
+}
+.page4 img:nth-of-type(3) {
+    width: 4.7rem;
+    height: 3.5rem;
+    top:2.8rem;
+    right:1.3rem;
+}
+.page4 img:nth-of-type(4) {
+    
+        width: 1.5rem;
+        height: 1rem;
+        top: 2.5rem;
+        left: 1rem;
+   
+}
+.page4 img:nth-of-type(5) {
+    
+    width: 2.6rem;
+    height: 2rem;
+    bottom: 3.3rem;
+    left: .3rem;
+}
+.page4 img:nth-of-type(6) {
+    
+    width: 7rem;
+    height: 1.5rem;
+    bottom: .8rem;
+    left:0;
+}
+.box4 {
+    position: absolute;
+    color: mediumorchid;
+    text-align: center;
+    font-size: .35rem;
+    bottom: 3rem;
+   right: .4rem;
+}
+.page5 {
+    background: url('image/1.1.png') no-repeat;
+    background-size: cover;
+}
+
+.page5 img {
+    position: absolute;
+}
+
+.page5 img:nth-of-type(1) {
+    width: 6.9rem;
+    height: 5.5rem;
+    top:2.9rem;
+    right:.35rem;
+}
+.page5 img:nth-of-type(2) {
+    width: 2.6rem;
+    height: 1.85rem;
+    top:3.5rem;
+   left:1rem;
+}
+ .page5 img:nth-of-type(3) {
+    width: 2.6rem;
+    height: 1.85rem;
+    top:3.5rem;
+    right:1rem;
+}
+.page5 img:nth-of-type(4) {
+    width: 2.6rem;
+    height: 1.85rem;
+    bottom:5.5rem;
+    left:1rem;
+}
+.page5 img:nth-of-type(5) {
+    width: 2.6rem;
+    height: 1.85rem;
+    bottom:5.5rem;
+    right:1rem;
+} 
+.page5 img:nth-of-type(6) {
+    width: 1.3rem;
+    height: .9rem;
+    top:2.6rem;
+    left:.2rem;
+} 
+.page5 img:nth-of-type(7) {
+    width: 1.3rem;
+    height: .9rem;
+   bottom:4.8rem;
+    right:.2rem;
+} 
+.box5 {
+    position: absolute;
+    color: darkorange;
+    text-align: center;
+    font-size: .35rem;
+    bottom: 1.3rem;
+   right:2rem;
+}
+.page6 {
+    background: url('image/1.1.png') no-repeat;
+    background-size: cover;
+}
+
+.page6 img {
+    position: absolute;
+}
+
+.page6 img:nth-of-type(1) {
+    width: 6.5rem;
+    height: 5.5rem;
+    top:4.5rem;
+    right:.5rem;
+}
+.page6 img:nth-of-type(2) {
+    width: 2.5rem;
+    height: 2.4rem;
+    top:4.7rem;
+    left:.9rem;
+}
+.page6 img:nth-of-type(3) {
+    width: 2.5rem;
+    height: 2.4rem;
+    top:4.7rem;
+    right:.9rem;
+}
+.page6 img:nth-of-type(4) {
+    width: 2.5rem;
+    height: 2.4rem;
+    bottom:3.5rem;
+   left:.9rem;
+}
+.page6 img:nth-of-type(5) {
+    width: 2.5rem;
+    height: 2.4rem;
+    bottom:3.5rem;
+    right:.9rem;
+}
+.page6 img:nth-of-type(6) {
+    width: 6.5rem;
+    height: 1.4rem;
+    top:.2rem;
+    right:.5rem;
+}
+.page6 img:nth-of-type(7) {
+    width: 2.5rem;
+    height: 3rem;
+    top:1.5rem;
+    right:2.5rem;
+}
+.box6 {
+    position: absolute;
+    color: brown;
+    text-align: center;
+    font-size: .4rem;
+    bottom: 1.8rem;
+   right:1.4rem;
+}
+.page7 {
+    background: url('image/1.1.png') no-repeat;
+    background-size: cover;
+}
+
+.page7 img {
+    position: absolute;
+}
+
+.page7 img:nth-of-type(1) {
+    width: 7.2rem;
+    height: 10rem;
+    top:1.5rem;
+    right:.2rem;
+}
+.page7 img:nth-of-type(2) {
+    width: 7.2rem;
+    height: 1rem;
+    top:.4rem;
+    right:.2rem;
+}
+.page7 img:nth-of-type(3) {
+    width: 5.3rem;
+    height:5.3rem;
+    top:4rem;
+    right:1.1rem;
+}
+.page7 img:nth-of-type(4) {
+    width: 1.3rem;
+    height:3.3rem;
+    top:1.4rem;
+    right:1rem;
+}
+.box7 {
+    position: absolute;
+    color: royalblue;
+    text-align: center;
+    font-size: 1rem;
+   top: 5.7rem;
+   right:1.8rem;
+}
